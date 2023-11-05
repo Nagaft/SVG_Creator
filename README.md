@@ -51,7 +51,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-- GitHub: [https://github.com/your-username/your-repo](https://github.com/Nagaft/Note-Web)
+- GitHub: (https://github.com/Nagaft/SVG_Creator)
 - Email: nagaf999@gmail.com
 
 
